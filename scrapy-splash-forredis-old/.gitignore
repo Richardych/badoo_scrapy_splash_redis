@@ -1,0 +1,12 @@
+*.pyc
+.tox
+build
+dist
+scrapyjs.egg-info
+scrapy_splash.egg-info
+.cache
+.coverage
+.scrapy
+htmlcov
+.hypothesis
+.ipynb_checkpoints
